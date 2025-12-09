@@ -1,0 +1,15 @@
+{
+    "language": "ru-RU", 
+    "SSID": null, 
+    "password": null, 
+    "hourc": "7", 
+    "minut": "30",
+    "emailrecv":"",
+    "sendemail":"",
+    "passemail":"",
+    "IPADDR":null,
+    "HOURNAPOM":14,
+    "MINUTNAPOM":30,
+    "BUDILHOUR":7,
+    "BUDILMINUT": "00"
+}
